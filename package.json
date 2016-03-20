@@ -1,0 +1,16 @@
+{
+  "name": "hellworld",
+  "version": "1.0.0",
+  "description": "simple electron hello world app",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^0.4.1",
+    "electron-prebuilt": "^0.37.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Vinny Rapisarda",
+  "license": "MIT"
+}
