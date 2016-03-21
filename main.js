@@ -1,11 +1,8 @@
 'use strict';
 
-console.log("Starting...");
 const electron = require('electron');
 const app = electron.app;
-console.log("Electron --" + electron );
-console.log("app --" + app);
-const BrowserWindow = electron.BrowserVersion;
+const BrowserWindow = electron.BrowserWindow;
 
 var mainWindow = null;
 

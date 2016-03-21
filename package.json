@@ -4,12 +4,12 @@
   "description": "simple electron hello world app",
   "main": "main.js",
   "dependencies": {
-    "electron": "^0.4.1",
     "electron-prebuilt": "^0.37.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start":"electron main.js"
   },
   "author": "Vinny Rapisarda",
   "license": "MIT"
